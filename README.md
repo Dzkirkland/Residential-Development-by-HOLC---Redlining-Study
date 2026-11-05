@@ -1,0 +1,7 @@
+The Home Owner's Loan Corporation (HOLC) was a home loan financing corporation intended to help struggling homeowners keep their homes following the great depression. it was established in 1933 and financed millions of loans across the country. The HOLC created a housing appraisal system of color-coded maps that categorized the riskiness of lending to households in different neighborhoods. While the maps relied on various housing and economic measures, they also used demographic information (such as the racial, ethnic, and immigrant composition of neighborhoods) to categorize creditworthiness (Aaronson et al.). The outcome of this grading system led to systemic inequality in housing safety, property values, and loan financing mainly based off of racism. 
+
+The graphic presented highlights a piece of the inequality that has persisted through almost a century focusing on the Milwaukee, WI area. A grade of D was hazardous, which was partially just based on who comprised the neighborhood but it also weighed the safety conditions of the neighborhoods evaluated. As the graphic shows, a heavy majority of the residential homes in each grade were built before 1950, which 
+
+Data: In R code
+Reference:
+Aaronson, Daniel; Hartley, Daniel; Mazumder, Bhashkar; Stinson, Martha (2022). "The Long-Run Effects of the 1930s Redlining Maps on Children". Journal of Economic Literature. doi:10.1257/jel. ISSN 0022-0515.
